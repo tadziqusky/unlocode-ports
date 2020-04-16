@@ -1,6 +1,6 @@
 # Extract ports from UNLOCODE datasets
 
-**extract ports.ipynb** notebook allows to extract ports only from unlocode dataset.
+**extract ports.ipynb** notebook allows to extract ports from unlocode dataset and convert location to DD (Decimal Degree) format.
 
 Datasets can be downloaded from UNECE website: http://www.unece.org/cefact/codesfortrade/codes_index.html
 
